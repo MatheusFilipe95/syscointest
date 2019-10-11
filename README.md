@@ -1,9 +1,12 @@
 # Syscointest
 ![](https://syscoin.com.br/wp-content/uploads/2018/07/SysCoinLogo-full.png)
 
-Para clonar o projeto e rodar localmente
+Para clonar o projeto e rodar localmente:
+```
 git clone git@github.com:MatheusFilipe95/syscointest.git
-Site hospedado por https://www.umbler.com
+```
+
+Site hospedado por https://www.umbler.com  
 
 O projeto foi feito em NodeJS, para instalar o Node rode o comando a seguir:
 
