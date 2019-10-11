@@ -1,2 +1,16 @@
 # syscointest
-A project for an internship entry
+
+Para clonar o projeto e rodar localmente
+git clone git@github.com:MatheusFilipe95/syscointest.git
+Site hospedado por https://www.umbler.com
+
+O projeto foi feito em NodeJS, para instalar o Node rode o comando a seguir:
+
+$ sudo apt-get install curl
+$ curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+
+$ sudo apt-get install nodejs
+
+Para instalar o NPM:
+
+$ sudo apt install nodejs
